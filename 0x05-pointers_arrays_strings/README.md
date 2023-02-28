@@ -12,3 +12,8 @@ File: 1-swap.c
 Write a function that returns the length of a string.
 Prototype: int _strlen(char *s);
 File: 2-strlen.c
+
+***3. I do not fear computers. I fear the lack of them project
+Write a function that prints a string, followed by a new line, to stdout.
+Prototype: void _puts(char *str);
+File: 3-puts.c
