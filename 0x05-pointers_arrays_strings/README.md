@@ -52,3 +52,7 @@ File: 9-strcpy.c
 
 ***10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 File: 100-atoi.c
+
+***11. Don't hate the hacker, hate the code
+Create a program that generates random valid passwords for the program 101-crackme.
+File: 101-keygen.c
