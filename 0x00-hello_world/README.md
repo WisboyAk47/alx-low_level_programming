@@ -46,3 +46,7 @@ Warnings are allowed
 Your program should return 0
 You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
 File: 6-size.c
+
+***7. Intel project
+Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+File: 100-intel
