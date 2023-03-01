@@ -32,3 +32,10 @@ File: 5-rev_string.c
 Write a function that prints every other character of a string, starting with the first character, followed by a new line.
 Prototype: void puts2(char *str);
 File: 6-puts2.c
+
+***7. Winning is only half of it. Having fun is the other half
+mandatory
+Write a function that prints half of a string, followed by a new line.
+Prototype: void puts_half(char *str);
+Write a function that prints half of a string, followed by a new line.
+Prototype: void puts_half(char *str);
