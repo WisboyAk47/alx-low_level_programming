@@ -39,3 +39,7 @@ Write a function that prints half of a string, followed by a new line.
 Prototype: void puts_half(char *str);
 Write a function that prints half of a string, followed by a new line.
 Prototype: void puts_half(char *str);
+
+***8. Arrays are not pointers
+Write a function that prints n elements of an array of integers, followed by a new line.
+File: 8-print_array.c
