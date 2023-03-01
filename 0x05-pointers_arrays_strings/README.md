@@ -49,3 +49,6 @@ Prototype: char *_strcpy(char *dest, char *src);
 Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 Return value: the pointer to dest
 File: 9-strcpy.c
+
+***10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+File: 100-atoi.c
