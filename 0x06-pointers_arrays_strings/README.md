@@ -22,3 +22,8 @@ File: 3-strcmp.c
 Write a function that reverses the content of an array of integers.
 Prototype: void reverse_array(int *a, int n);
 File: 4-rev_array.c
+
+***5. Always look up
+Write a function that changes all lowercase letters of a string to uppercase.
+Prototype: char *string_toupper(char *);
+File: 5-string_toupper.c
