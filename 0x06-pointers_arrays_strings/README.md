@@ -32,3 +32,7 @@ File: 5-string_toupper.c
 Write a function that capitalizes all words of a string.
 Prototype: char *cap_string(char *);
 File: 6-cap_string.c
+
+***7. Mozart composed his music not for the elite, but for everybody
+Write a function that encodes a string into 1337.
+File: 7-leet.c
