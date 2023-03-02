@@ -27,3 +27,8 @@ File: 4-rev_array.c
 Write a function that changes all lowercase letters of a string to uppercase.
 Prototype: char *string_toupper(char *);
 File: 5-string_toupper.c
+
+***6. Expect the best. Prepare for the worst. Capitalize on what comes
+Write a function that capitalizes all words of a string.
+Prototype: char *cap_string(char *);
+File: 6-cap_string.c
