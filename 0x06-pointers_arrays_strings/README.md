@@ -12,3 +12,8 @@ File: 1-strncat.c
 Write a function that copies a string.
 Prototype: char *_strncpy(char *dest, char *src, int n);
 File: 2-strncpy.c
+
+***3. strcmp project
+Write a function that compares two strings.
+Prototype: int _strcmp(char *s1, char *s2);
+File: 3-strcmp.c
