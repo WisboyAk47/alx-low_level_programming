@@ -17,3 +17,8 @@ File: 2-strncpy.c
 Write a function that compares two strings.
 Prototype: int _strcmp(char *s1, char *s2);
 File: 3-strcmp.c
+
+***4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
+Write a function that reverses the content of an array of integers.
+Prototype: void reverse_array(int *a, int n);
+File: 4-rev_array.c
