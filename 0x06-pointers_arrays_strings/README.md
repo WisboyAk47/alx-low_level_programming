@@ -49,3 +49,8 @@ File: 101-print_number.c
 
 ***10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
 File: 102-magic.c
+
+***11. It is the addition of strangeness to beauty that constitutes the romantic character in art
+Write a function that adds two numbers.
+Prototype: char *infinite_add(char *n1, char *n2, char *r, int size_r);
+File: 103-infinite_add.c
