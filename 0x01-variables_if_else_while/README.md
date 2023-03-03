@@ -17,4 +17,5 @@ File: 4-print_alphabt.c
 ***5. Numbers project
 File: 5-print_numbers.c
 
-
+***6. Numberz project 
+File: 6-print_numberz.c
