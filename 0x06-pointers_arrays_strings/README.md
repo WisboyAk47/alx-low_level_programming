@@ -54,3 +54,8 @@ File: 102-magic.c
 Write a function that adds two numbers.
 Prototype: char *infinite_add(char *n1, char *n2, char *r, int size_r);
 File: 103-infinite_add.c
+
+***12. Noise is a buffer, more effective than cubicles or booth walls
+Write a function that prints a buffer.
+Prototype: void print_buffer(char *b, int size);
+File: 104-print_buffer.c
