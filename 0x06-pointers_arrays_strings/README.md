@@ -46,3 +46,6 @@ File: 100-rot13.c
 Write a function that prints an integer.
 Prototype: void print_number(int n);
 File: 101-print_number.c
+
+***10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
+File: 102-magic.c
