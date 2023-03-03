@@ -32,3 +32,6 @@ File: 9-print_comb.c
 
 ***10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 File: 100-print_comb3.c
+
+***11. The success combination in business is: Do what you do better... and: do more of what you do...
+File: 101-print_comb4.c
