@@ -30,4 +30,5 @@ File: 8-print_base16.c
 mandatory
 File: 9-print_comb.c
 
-
+***10. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+File: 100-print_comb3.c
