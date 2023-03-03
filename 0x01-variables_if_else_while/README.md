@@ -19,3 +19,6 @@ File: 5-print_numbers.c
 
 ***6. Numberz project 
 File: 6-print_numberz.c
+
+***7. Smile in the mirror project
+File: 7-print_tebahpla.c
