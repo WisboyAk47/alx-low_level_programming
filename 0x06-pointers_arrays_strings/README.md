@@ -41,3 +41,8 @@ File: 7-leet.c
 Write a function that encodes a string using rot13.
 Prototype: char *rot13(char *);
 File: 100-rot13.c
+
+***9. Numbers have life; they're not just symbols on paper
+Write a function that prints an integer.
+Prototype: void print_number(int n);
+File: 101-print_number.c
