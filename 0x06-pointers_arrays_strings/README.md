@@ -36,3 +36,8 @@ File: 6-cap_string.c
 ***7. Mozart composed his music not for the elite, but for everybody
 Write a function that encodes a string into 1337.
 File: 7-leet.c
+
+***8. rot13 project
+Write a function that encodes a string using rot13.
+Prototype: char *rot13(char *);
+File: 100-rot13.c
