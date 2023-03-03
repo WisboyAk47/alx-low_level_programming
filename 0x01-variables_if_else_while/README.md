@@ -22,3 +22,6 @@ File: 6-print_numberz.c
 
 ***7. Smile in the mirror project
 File: 7-print_tebahpla.c
+
+***8. Hexadecimal project
+File: 8-print_base16.c
