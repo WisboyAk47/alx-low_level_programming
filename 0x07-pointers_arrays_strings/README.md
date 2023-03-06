@@ -17,3 +17,7 @@ File: 3-strspn.c
 ***4. strpbrk project
 Write a function that searches a string for any of a set of bytes.
 File: 4-strpbrk.c
+
+***5. strstr project
+Write a function that locates a substring.
+File: 5-strstr.c
