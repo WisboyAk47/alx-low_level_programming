@@ -6,4 +6,8 @@ File: 0-memset.c
 Write a function that copies memory area.
 File: 1-memcpy.c
 
+***2. strchr project
+Write a function that locates a character in a string.
+File: 2-strchr.c
+
 ***
