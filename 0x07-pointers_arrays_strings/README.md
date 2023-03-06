@@ -13,3 +13,7 @@ File: 2-strchr.c
 ***3. strspn
 Write a function that gets the length of a prefix substring.
 File: 3-strspn.c
+
+***4. strpbrk project
+Write a function that searches a string for any of a set of bytes.
+File: 4-strpbrk.c
