@@ -21,3 +21,7 @@ File: 4-strpbrk.c
 ***5. strstr project
 Write a function that locates a substring.
 File: 5-strstr.c
+
+***prints the chessboard project
+Write a function that prints the chessboard.
+File: 7-print_chessboard.c
