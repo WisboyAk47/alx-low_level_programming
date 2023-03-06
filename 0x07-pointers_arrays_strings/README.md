@@ -22,6 +22,10 @@ File: 4-strpbrk.c
 Write a function that locates a substring.
 File: 5-strstr.c
 
-***prints the chessboard project
+***6. Chess is mental torture project
 Write a function that prints the chessboard.
 File: 7-print_chessboard.c
+
+***7. The line of life is a ragged diagonal between duty and desire
+Write a function that prints the sum of the two diagonals of a square matrix of integers.
+File: 8-print_diagsums.c
