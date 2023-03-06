@@ -10,4 +10,6 @@ File: 1-memcpy.c
 Write a function that locates a character in a string.
 File: 2-strchr.c
 
-***
+***3. strspn
+Write a function that gets the length of a prefix substring.
+File: 3-strspn.c
