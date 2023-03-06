@@ -29,3 +29,7 @@ File: 7-print_chessboard.c
 ***7. The line of life is a ragged diagonal between duty and desire
 Write a function that prints the sum of the two diagonals of a square matrix of integers.
 File: 8-print_diagsums.c
+
+***8. Double pointer, double fun project
+Write a function that sets the value of a pointer to a char
+File: 100-set_string.c
